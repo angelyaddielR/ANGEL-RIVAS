@@ -16,29 +16,21 @@ https://youtu.be/k_zwm6Qu_lk?si=iOJCC51tGpT5qLI2
 
  ## Este es un codigo HTML.
 
->cite. <!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Documento común con cita</title>
-</head>
-<body>
-
-  <h1>Ejemplo de documento HTML</h1>
-
-  <p>Este es un ejemplo de un documento HTML común. Contiene un título, un párrafo y una cita.</p>
-
-  <h2>Cita sobre Linux</h2>
-
-  <blockquote>
-    "Linux es un sistema operativo libre y de código abierto basado en Unix."
-    <cite>— Linus Torvalds, 1991</cite>
-  </blockquote>
-
-  <p>Linux se utiliza ampliamente en servidores, computadoras personales y dispositivos móviles.</p>
-
-</body>
+```markdown
+// Aquest és un bloc de codi
+exemple de html() {
+// <!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Mi pagina de prueba</title>
+  </head>
+  <body>
+    <img src="images/firefox-icon.png" alt="Mi imagen de prueba" />
+  </body>
 </html>
+}
+```
 
 
 
