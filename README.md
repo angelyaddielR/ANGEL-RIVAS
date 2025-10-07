@@ -15,30 +15,30 @@ https://youtu.be/k_zwm6Qu_lk?si=iOJCC51tGpT5qLI2
  *tambien me gusta el deporte.*
 
  ## Este es un codigo HTML.
- > <!DOCTYPE html>
+
+>. <!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Formulario básico</title>
+  <title>Documento común con cita</title>
 </head>
 <body>
 
-  <h1>Formulario de contacto</h1>
+  <h1>Ejemplo de documento HTML</h1>
 
-  <form action="/enviar" method="post">
-    <label>Nombre:</label>
-    <input type="text" name="nombre"><br><br>
+  <p>Este es un ejemplo de un documento HTML común. Contiene un título, un párrafo y una cita.</p>
 
-    <label>Correo:</label>
-    <input type="email" name="correo"><br><br>
+  <h2>Cita sobre Linux</h2>
 
-    <label>Mensaje:</label><br>
-    <textarea name="mensaje" rows="5" cols="30"></textarea><br><br>
+  <blockquote>
+    "Linux es un sistema operativo libre y de código abierto basado en Unix."
+    <cite>— Linus Torvalds, 1991</cite>
+  </blockquote>
 
-    <input type="submit" value="Enviar">
-  </form>
+  <p>Linux se utiliza ampliamente en servidores, computadoras personales y dispositivos móviles.</p>
 
 </body>
 </html>
+
 
 
