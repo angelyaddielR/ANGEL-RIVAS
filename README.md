@@ -17,8 +17,7 @@ https://youtu.be/k_zwm6Qu_lk?si=iOJCC51tGpT5qLI2
  ## Este es un codigo HTML.
 
 ```markdown
-// Aquest és un bloc de codi
-exemple de html() {
+// ) {
 // <!doctype html>
 <html>
   <head>
