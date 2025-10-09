@@ -57,7 +57,7 @@ li {
 - [ ] Visitar a mis abuelos
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
-#MIS REDES SOCIALES:
+# MIS REDES SOCIALES:
 - [Instagram](instagram.com)
 - [Facebok](facebok.com)
 - [Youtube](youtube.com)
