@@ -23,7 +23,8 @@ https://youtu.be/k_zwm6Qu_lk?si=iOJCC51tGpT5qLI2
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>Mi pagina de prueba</title>
+    <title>PAGINA DE ANGEL</title>
+     <h1> PUIG CASTELLAR</h1>
   </head>
   <body>
     <img src="images/firefox-icon.png" alt="Mi imagen de prueba" />
