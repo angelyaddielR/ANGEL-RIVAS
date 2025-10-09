@@ -33,14 +33,28 @@ https://youtu.be/k_zwm6Qu_lk?si=iOJCC51tGpT5qLI2
 }
 ```
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
+# Este es un codigo de CSS
+```markdown
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+```
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 ## Cosas pendiendes por hacer
 - [x]  Jugar a futbol
 - [x]  Ir al instituto
 - [ ] Desayunar con mis amigos
 - [ ] Visitar a mis abuelos
---- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
-#
+
 
  
 
