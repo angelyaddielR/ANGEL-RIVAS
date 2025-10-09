@@ -1,5 +1,5 @@
 # SOY UN PROGRAMADOR DE HTML.
-Nací de en Australia el 23-03-2007, desde pequeño soy un apacionado por la informatica.
+Nací de en Australia el 23-03-2007, desde pequeño soy un apacionado por la informatica. Estudié en el institut la bastida, mi animal favorito es el mapache.
 ## Lugares favoritos
 - España
 - Marruecos
