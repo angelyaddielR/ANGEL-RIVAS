@@ -4,12 +4,12 @@
 - Nacimiento: 23-03-2007
   
 Nací de en Australia el 23-03-2007, desde pequeño soy un apacionado por la informatica. Estudié en el institut la bastida, mi animal favorito es el mapache.
-## Lugares favoritos
+## 1. Lugares favoritos
 - España
 - Marruecos
 - Australia
 - Estados unidos
-## Este es mi deporte favorito
+## 2. Deporte favorito
 https://youtu.be/k_zwm6Qu_lk?si=iOJCC51tGpT5qLI2
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 ## En esta imagen les mostrare un poco de australia
