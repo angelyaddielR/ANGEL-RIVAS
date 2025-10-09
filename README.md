@@ -13,7 +13,7 @@ https://youtu.be/k_zwm6Qu_lk?si=iOJCC51tGpT5qLI2
 
  **Desde pequeño siempre me gustó la informatia, por esa razón elegí este ciclo para mi futuro,** 
  *tambien me gusta el deporte.*
-> ME LLAMO ANGEL
+> Hola, me llamo Angel, tengo 17 años y esta es mi primera vez utilizando este programa, la verdad es que me ha gustado bastante.
 
  ## Este es un codigo HTML.
 
