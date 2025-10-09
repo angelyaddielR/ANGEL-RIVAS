@@ -18,8 +18,8 @@ https://youtu.be/k_zwm6Qu_lk?si=iOJCC51tGpT5qLI2
  ## Este es un codigo HTML.
 
 ```markdown
-// ) {
-// <!doctype html>
+
+<!doctype html>
 <html>
   <head>
     <meta charset="utf-8" />
@@ -31,7 +31,7 @@ https://youtu.be/k_zwm6Qu_lk?si=iOJCC51tGpT5qLI2
      <link rel="stylesheet" src="style.css">
   </body>
 </html>
-}
+
 ```
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 # Este es un codigo de CSS
