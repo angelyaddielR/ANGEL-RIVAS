@@ -68,7 +68,7 @@ li {
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 # MI LENGUAJE FAVORITO:
-!<img src= /html.png>
+<img src= /html.png>
 
  
 
