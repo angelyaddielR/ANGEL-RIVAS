@@ -34,8 +34,8 @@ https://youtu.be/k_zwm6Qu_lk?si=iOJCC51tGpT5qLI2
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 ## Cosas pendiendes por hacer
-- [ x] Jugar a futbol
-- [ x] Ir al instituto
+- [x]  Jugar a futbol
+- [x]  Ir al instituto
 - [ ] Desayunar con mis amigos
 - [ ] Visitar a mis abuelos
 
