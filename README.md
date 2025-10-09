@@ -28,6 +28,7 @@ https://youtu.be/k_zwm6Qu_lk?si=iOJCC51tGpT5qLI2
   </head>
   <body>
     <img src="images/firefox-icon.png" alt="Mi imagen de prueba" />
+     <link rel="stylesheet" src="style.css">
   </body>
 </html>
 }
@@ -35,11 +36,16 @@ https://youtu.be/k_zwm6Qu_lk?si=iOJCC51tGpT5qLI2
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 # Este es un codigo de CSS
 ```markdown
-let helado = "chocolate";
-if (helado === "chocolate") {
-  alert("¡Sí, amo el helado de chocolate!");
-} else {
-  alert("Awwww, pero mi favorito es el de chocolate...");
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
 }
 ```
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
