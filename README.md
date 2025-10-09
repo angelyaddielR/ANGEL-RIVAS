@@ -59,8 +59,8 @@ li {
 
 #MIS REDES SOCIALES:
 - [Instagram](instagram.com)
--[Facebok](facebok.com)
--[X](x.com)
+- [Facebok](facebok.com)
+- [Youtube](youtube.com)
 
  
 
