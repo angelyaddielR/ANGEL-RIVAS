@@ -64,7 +64,7 @@ li {
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 # MI LENGUAJE FAVORITO:
-!<img src= html.pgn/>
+!<img src= /html.png>
 
  
 
