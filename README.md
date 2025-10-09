@@ -55,7 +55,12 @@ li {
 - [x]  Ir al instituto
 - [ ] Desayunar con mis amigos
 - [ ] Visitar a mis abuelos
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
+#MIS REDES SOCIALES:
+- [Instagram](instagram.com)
+-[Facebok](facebok.com)
+-[X](x.com)
 
  
 
