@@ -5,22 +5,22 @@
 - Profeción: **Programador**
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 Nací de en Australia el 23-03-2007, desde pequeño soy un apacionado por la informatica. Estudié en el institut la bastida, mi animal favorito es el mapache.
-## 1. Lugares favoritos
+# 1. Lugares favoritos
 - España
 - Marruecos
 - Australia
 - Estados unidos
-## 2. Deporte favorito
+# 2. Deporte favorito
 https://youtu.be/k_zwm6Qu_lk?si=iOJCC51tGpT5qLI2
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
-## 3. En esta imagen les mostrare un poco de australia
+# 3. En esta imagen les mostrare un poco de australia
  https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.intermundial.es%2Fblog%2Fmejores-ciudades-de-australia&psig=AOvVaw0APXJ6EaG5ECW8UvT5BDKf&ust=1759926131278000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjtmvuJkpADFQAAAAAdAAAAABAE
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
  **Desde pequeño siempre me gustó la informatia, por esa razón elegí este ciclo para mi futuro,** 
  *tambien me gusta el deporte.*
 > Hola, me llamo Angel, tengo 17 años y esta es mi primera vez utilizando este programa, la verdad es que me ha gustado bastante.
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
- ## 4. Este es un codigo HTML.
+ # 4. Este es un codigo HTML.
 
 ```markdown
 
@@ -55,7 +55,7 @@ li {
 ```
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
-## 6. Cosas pendiendes por hacer
+#  6. Cosas pendiendes por hacer
 - [x]  Jugar a futbol
 - [x]  Ir al instituto
 - [ ] Desayunar con mis amigos
