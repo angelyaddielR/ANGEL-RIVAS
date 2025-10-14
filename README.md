@@ -68,8 +68,9 @@ li {
 - [Youtube](youtube.com)
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
-# 8. MI LENGUAJE FAVORITO:
+# 8. MIS LENGUAJES FAVORITOS:
 <img src= /html.png>
+
 
  
 
