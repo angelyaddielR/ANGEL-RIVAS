@@ -70,7 +70,7 @@ li {
 
 # 8. MIS LENGUAJES FAVORITOS:
 <img src= /html.png>  <img src= /css.png>  <img src= /java.png>
-![Fondo](/java.png)
+
 
 
  
