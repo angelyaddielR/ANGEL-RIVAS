@@ -64,8 +64,8 @@ li {
 
 # 7. MIS REDES SOCIALES:
 - [Instagram](instagram.com) <img width="20" height="15" alt="image" src="ig.jpeg" />
-- [Facebok](facebok.com)
-- [Youtube](youtube.com)
+- [Facebok](facebok.com)  <img width="20" height="15" alt="image" src="fc.png" />
+- [Youtube](youtube.com)  <img width="20" height="15" alt="image" src="you.png" />
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 # 8. MIS LENGUAJES FAVORITOS:
