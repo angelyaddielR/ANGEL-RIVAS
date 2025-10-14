@@ -1,8 +1,9 @@
 # SOY UN PROGRAMADOR DE HTML.
-- Nombre: Angel
-- Edad: 18 años
-- Nacimiento: 23-03-2007
-  
+- Nombre: **Angel Yaddiel**
+- Edad: **18 años**
+- Nacimiento: **23-03-2007**
+- Profeción: **Programador**
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 Nací de en Australia el 23-03-2007, desde pequeño soy un apacionado por la informatica. Estudié en el institut la bastida, mi animal favorito es el mapache.
 ## 1. Lugares favoritos
 - España
