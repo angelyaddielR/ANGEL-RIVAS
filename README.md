@@ -63,7 +63,7 @@ li {
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 
 # 7. MIS REDES SOCIALES:
-- [Instagram](instagram.com)
+- [Instagram](instagram.com) 
 - [Facebok](facebok.com)
 - [Youtube](youtube.com)
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
